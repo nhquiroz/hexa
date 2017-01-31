@@ -1,3 +1,3 @@
-# HexLib
+# hexa
 
-A pico library of common JS Hex operations I use across my projects
+A pico library of common JS hex ops I use across my projects
